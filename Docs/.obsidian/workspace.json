@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "882a21a1d5ab2559",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ace14089af40c66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e61b490e0339dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IC/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "806863cdbcef603c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7412d0d95a277084",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb41d2f5d51c3e52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ecbf5d85ee74492",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b1ff9dc4a670378",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "right": {
+    "id": "92ecd1fd4754f3fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d916d5f7b44a2f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d4da8f0c5f0cb72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IC/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d15e5b4c1c692798",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IC/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "acb4f810f85b36f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d485003373d57bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IC/Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "obsidian-tts:Text to Speech": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "fb41d2f5d51c3e52",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "IC/Untitled.md",
+    "Welcome.md",
+    "IC",
+    "AI Temp.md",
+    "Resources/Pasted image 20230920170230.png",
+    "Resources/Pasted image 20231019121750.png",
+    "Resources/Pasted image 20231019131907.png",
+    "New/RabbitMQ/01/02- Intro - RPC Communication.md",
+    "New/RabbitMQ/01/00- Course Info.md",
+    "New/RabbitMQ/01/11- ExchangeTypes - (4) Headers.md",
+    "New/RabbitMQ/01/12- ExchangeTypes - UseCase.md",
+    "New/RabbitMQ/01/13- ExchangeTypes -Recommendations.md",
+    "New/RabbitMQ/01/10- ExchangeTypes - (3) Topic.md",
+    "New/RabbitMQ/01/09- ExchangeTypes - (2) Fanout.md",
+    "New/RabbitMQ/01/08- ExchangeTypes - (1) Direct.md",
+    "New/RabbitMQ/01/07- RabbitMQ - Shared Configuration.md",
+    "New/RabbitMQ/01/05- AMQP Protocol- Frames.md",
+    "New/RabbitMQ/01/04- AMQP Protocol - What.md",
+    "New/RabbitMQ/01/03- Intro - Message-based Systems.md",
+    "New/RabbitMQ/01/01- Intro.md",
+    "New/CSharp/01/02- Generics.md",
+    "New/CSharp/01/01- Course Info.md",
+    "New/Auth/01/06- Code - Setup - Packages.md",
+    "New/Auth/01/05- Intro - JWT ( Json Web Token ).md",
+    "New/Auth/01/04- Intro - What is IdentityFramework.md",
+    "New/Auth/01/02- Intro - Authentication vs Authorization.md",
+    "New/Auth/01/03- Intro - Cookie-based vs Token-based.md",
+    "Coming.md",
+    "Resources/Pasted image 20240501060229 1.png",
+    "New/Auth/01/ASP.NET Core - Token-Based Authentication ⭐.md",
+    "Resources/Pasted image 20240501060229.png",
+    "Resources/Pasted image 20240502033333.png",
+    "Resources/Pasted image 20240502033128.png",
+    "Resources/Pasted image 20240514165305.png",
+    "Resources/Pasted image 20240502042252.png",
+    "Resources/Pasted image 20240502042028.png",
+    "New/RabbitMQ/01",
+    "New/RabbitMQ",
+    "New/Auth/01",
+    "New/Auth",
+    "New/Software Diagrams/01",
+    "New/Software Diagrams",
+    "New/Algorithms/02",
+    "New/CSharp/01",
+    "New/CSharp",
+    "Rearrange/Interview/Database/01 - SQL.canvas",
+    "Rearrange/Interview/Concept/OOP.canvas",
+    "Rearrange/Interview/C#/02 - .Net Framework.canvas",
+    "Rearrange/Interview/C#/01 - CSharp.canvas",
+    "02Project/Fresenius/Graph/01- HDES & DVM Flow.canvas",
+    "02Project/Fresenius/Graph/01- GDPR Flow.canvas",
+    "EPAM/03-Project/Fresenius/Graph/01- GDPR Flow.canvas",
+    "EPAM/03-Project/Fresenius/Graph/01- HDES & DVM Flow.canvas",
+    "EPAM/02-Level-up/01-Grinta/01.canvas",
+    "EPAM/02-Level-up/01-FMCD-FMTC/01.canvas"
+  ]
+}
