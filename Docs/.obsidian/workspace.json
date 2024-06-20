@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e61b490e0339dbf",
+            "id": "5ff8c23de3dab44e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IC/Untitled.md",
+                "file": "Environmental Control services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acac8eed7c2ac9a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doc.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 322.5
   },
   "right": {
     "id": "92ecd1fd4754f3fb",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IC/Untitled.md",
+                "file": "Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IC/Untitled.md",
+                "file": "Doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IC/Untitled.md"
+                "file": "Doc.md"
               }
             }
           }
@@ -147,16 +160,39 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "fb41d2f5d51c3e52",
+  "active": "acac8eed7c2ac9a2",
   "lastOpenFiles": [
-    "Untitled.md",
-    "IC/Untitled.md",
+    "IC/02- Intro - What is IC.md",
+    "IC/01- Intro - purpose.md",
+    "IC/07- TR - IDM - (3) 3rd Party Ice Detection.md",
+    "IC/08- TR - IMA - (1) Pausing.md",
+    "IC/09- TR - IMA - (2) Yawing.md",
+    "IC/10- TR - IMA - (3) Vestas De-Icing System.md",
+    "IC/11- TR - IMA - (4) Vestas Anti-Icing System.md",
+    "IC/13- IC - 1 1 1.md",
+    "IC/12- TR - IMS.md",
+    "Resources/Pasted image 20240618150803.png",
+    "Environmental Control services.md",
+    "IC/06- TR - IDM - (2) Nacelle Ice Detection.md",
+    "IC/05- TR - IDM - (1) Vestas Ice Detection.md",
+    "IC/04- TR - PowerCurveIceDetection.md",
+    "IC/03- Intro - High-level architecture.md",
+    "Resources/Pasted image 20240618174853.png",
+    "Resources/Pasted image 20240618154135.png",
+    "Resources/Pasted image 20240618153931.png",
+    "Resources/Pasted image 20240618152806.png",
+    "Pasted image 20240618153808.png",
+    "Resources/Pasted image 20240618152244.png",
+    "Pasted image 20240618152432.png",
+    "Resources/Pasted image 20240618151627.png",
+    "Pasted image 20240618150248.png",
+    "Doc.md",
+    "IC/14- IC - 1 1.md",
+    "Untitled",
+    "Resources",
     "Welcome.md",
     "IC",
     "AI Temp.md",
-    "Resources/Pasted image 20230920170230.png",
-    "Resources/Pasted image 20231019121750.png",
-    "Resources/Pasted image 20231019131907.png",
     "New/RabbitMQ/01/02- Intro - RPC Communication.md",
     "New/RabbitMQ/01/00- Course Info.md",
     "New/RabbitMQ/01/11- ExchangeTypes - (4) Headers.md",
@@ -164,28 +200,6 @@
     "New/RabbitMQ/01/13- ExchangeTypes -Recommendations.md",
     "New/RabbitMQ/01/10- ExchangeTypes - (3) Topic.md",
     "New/RabbitMQ/01/09- ExchangeTypes - (2) Fanout.md",
-    "New/RabbitMQ/01/08- ExchangeTypes - (1) Direct.md",
-    "New/RabbitMQ/01/07- RabbitMQ - Shared Configuration.md",
-    "New/RabbitMQ/01/05- AMQP Protocol- Frames.md",
-    "New/RabbitMQ/01/04- AMQP Protocol - What.md",
-    "New/RabbitMQ/01/03- Intro - Message-based Systems.md",
-    "New/RabbitMQ/01/01- Intro.md",
-    "New/CSharp/01/02- Generics.md",
-    "New/CSharp/01/01- Course Info.md",
-    "New/Auth/01/06- Code - Setup - Packages.md",
-    "New/Auth/01/05- Intro - JWT ( Json Web Token ).md",
-    "New/Auth/01/04- Intro - What is IdentityFramework.md",
-    "New/Auth/01/02- Intro - Authentication vs Authorization.md",
-    "New/Auth/01/03- Intro - Cookie-based vs Token-based.md",
-    "Coming.md",
-    "Resources/Pasted image 20240501060229 1.png",
-    "New/Auth/01/ASP.NET Core - Token-Based Authentication ⭐.md",
-    "Resources/Pasted image 20240501060229.png",
-    "Resources/Pasted image 20240502033333.png",
-    "Resources/Pasted image 20240502033128.png",
-    "Resources/Pasted image 20240514165305.png",
-    "Resources/Pasted image 20240502042252.png",
-    "Resources/Pasted image 20240502042028.png",
     "New/RabbitMQ/01",
     "New/RabbitMQ",
     "New/Auth/01",
@@ -193,8 +207,6 @@
     "New/Software Diagrams/01",
     "New/Software Diagrams",
     "New/Algorithms/02",
-    "New/CSharp/01",
-    "New/CSharp",
     "Rearrange/Interview/Database/01 - SQL.canvas",
     "Rearrange/Interview/Concept/OOP.canvas",
     "Rearrange/Interview/C#/02 - .Net Framework.canvas",
