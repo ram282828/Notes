@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/02/02- What is NSSM.md",
+                "file": "Sprints/Sprint-91/01- Migrate icedetectionservice to NET 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/02/02- What is NSSM.md",
+                "file": "Sprints/Sprint-91/01- Migrate icedetectionservice to NET 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/02/02- What is NSSM.md",
+                "file": "Sprints/Sprint-91/01- Migrate icedetectionservice to NET 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/02/02- What is NSSM.md"
+                "file": "Sprints/Sprint-91/01- Migrate icedetectionservice to NET 6.md"
               }
             }
           }
@@ -162,9 +162,10 @@
   },
   "active": "f98fd0d7422f297e",
   "lastOpenFiles": [
+    "Sprints/Title.md",
     "Sprints/Sprint-91/01- Migrate icedetectionservice to NET 6.md",
-    "Notes/02/01- Create New Project.md",
     "Notes/02/02- What is NSSM.md",
+    "Notes/02/01- Create New Project.md",
     "Notes/01/03- How Install Service (dll).md",
     "Notes/01/02- Server Connection.md",
     "Notes/01/01- Password.md",
@@ -194,7 +195,6 @@
     "Resources/Pasted image 20240618150803.png",
     "Environmental Control services.md",
     "IC/06- TR - IDM - (2) Nacelle Ice Detection.md",
-    "IC/05- TR - IDM - (1) Vestas Ice Detection.md",
     "Resources/Pasted image 20240618174853.png",
     "Resources/Pasted image 20240618154135.png",
     "Resources/Pasted image 20240618153931.png",
