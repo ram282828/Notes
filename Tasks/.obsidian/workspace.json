@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sprints/Sprint-91/01- Migrate icedetectionservice to NET 6.md",
+                "file": "Notes/02/01- Create New Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sprints/Sprint-91/01- Migrate icedetectionservice to NET 6.md",
+                "file": "Notes/02/01- Create New Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sprints/Sprint-91/01- Migrate icedetectionservice to NET 6.md",
+                "file": "Notes/02/01- Create New Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sprints/Sprint-91/01- Migrate icedetectionservice to NET 6.md"
+                "file": "Notes/02/01- Create New Project.md"
               }
             }
           }
@@ -162,14 +162,14 @@
   },
   "active": "f98fd0d7422f297e",
   "lastOpenFiles": [
-    "Sprints/Title.md",
-    "Sprints/Sprint-91/01- Migrate icedetectionservice to NET 6.md",
     "Notes/02/02- What is NSSM.md",
-    "Notes/02/01- Create New Project.md",
+    "Sprints/Sprint-91/01- Migrate icedetectionservice to NET 6.md",
     "Notes/01/03- How Install Service (dll).md",
+    "Notes/02/01- Create New Project.md",
     "Notes/01/02- Server Connection.md",
-    "Notes/01/01- Password.md",
     "PowerShell/01.md",
+    "Sprints/Title.md",
+    "Notes/01/01- Password.md",
     "Welcome.md",
     "Sprints",
     "Notes/02",
