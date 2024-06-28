@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doc.md",
+                "file": "ID/01- Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "900a495eb84f850a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ID/03- Intro - VAS ( VASrt - VASss ).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doc.md",
+                "file": "ID/03- Intro - VAS ( VASrt - VASss ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doc.md",
+                "file": "ID/03- Intro - VAS ( VASrt - VASss ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doc.md"
+                "file": "ID/03- Intro - VAS ( VASrt - VASss ).md"
               }
             }
           }
@@ -160,23 +172,29 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "acac8eed7c2ac9a2",
+  "active": "900a495eb84f850a",
   "lastOpenFiles": [
+    "ID/02- Intro - PCID.md",
+    "ID/01- Intro.md",
+    "ID/03- Intro - VAS ( VASrt - VASss ).md",
+    "Resources/Pasted image 20240624120315.png",
+    "IC/11- TR - IMA - (4) Vestas Anti-Icing System.md",
+    "IC/04- TR - PowerCurveIceDetection.md",
+    "IC/03- Intro - High-level architecture.md",
+    "ID",
+    "IC/10- TR - IMA - (3) Vestas De-Icing System.md",
+    "IC/09- TR - IMA - (2) Yawing.md",
+    "IC/08- TR - IMA - (1) Pausing.md",
+    "IC/07- TR - IDM - (3) 3rd Party Ice Detection.md",
+    "IC/06- TR - IDM - (2) Nacelle Ice Detection.md",
+    "IC/05- TR - IDM - (1) Vestas Ice Detection.md",
+    "Doc.md",
     "IC/02- Intro - What is IC.md",
     "IC/01- Intro - purpose.md",
-    "IC/07- TR - IDM - (3) 3rd Party Ice Detection.md",
-    "IC/08- TR - IMA - (1) Pausing.md",
-    "IC/09- TR - IMA - (2) Yawing.md",
-    "IC/10- TR - IMA - (3) Vestas De-Icing System.md",
-    "IC/11- TR - IMA - (4) Vestas Anti-Icing System.md",
     "IC/13- IC - 1 1 1.md",
     "IC/12- TR - IMS.md",
     "Resources/Pasted image 20240618150803.png",
     "Environmental Control services.md",
-    "IC/06- TR - IDM - (2) Nacelle Ice Detection.md",
-    "IC/05- TR - IDM - (1) Vestas Ice Detection.md",
-    "IC/04- TR - PowerCurveIceDetection.md",
-    "IC/03- Intro - High-level architecture.md",
     "Resources/Pasted image 20240618174853.png",
     "Resources/Pasted image 20240618154135.png",
     "Resources/Pasted image 20240618153931.png",
@@ -185,10 +203,7 @@
     "Resources/Pasted image 20240618152244.png",
     "Pasted image 20240618152432.png",
     "Resources/Pasted image 20240618151627.png",
-    "Pasted image 20240618150248.png",
-    "Doc.md",
     "IC/14- IC - 1 1.md",
-    "Untitled",
     "Resources",
     "Welcome.md",
     "IC",
@@ -197,9 +212,6 @@
     "New/RabbitMQ/01/00- Course Info.md",
     "New/RabbitMQ/01/11- ExchangeTypes - (4) Headers.md",
     "New/RabbitMQ/01/12- ExchangeTypes - UseCase.md",
-    "New/RabbitMQ/01/13- ExchangeTypes -Recommendations.md",
-    "New/RabbitMQ/01/10- ExchangeTypes - (3) Topic.md",
-    "New/RabbitMQ/01/09- ExchangeTypes - (2) Fanout.md",
     "New/RabbitMQ/01",
     "New/RabbitMQ",
     "New/Auth/01",
