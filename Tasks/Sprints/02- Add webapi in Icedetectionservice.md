@@ -15,12 +15,8 @@ At the moment of writing this, there is no https implementation merged yet, it i
 
 For help please reach out [FNVJP@vestas.com.![](https://onejira.tools.vestas.net/images/icons/mail_small.gif)](mailto:FNVJP@vestas.com. "Follow link") He was implementing HTTPS in our services
 
-
 ----
+Ports: [TCP port assignment - VOB/VOC - Consolidated SCADA - product space - https://wiki.tsw.vestas.net](https://wiki.tsw.vestas.net/pages/viewpage.action?pageId=296084014)
 
-Ports: 
-[TCP port assignment - VOB/VOC - Consolidated SCADA - product space - https://wiki.tsw.vestas.net](https://wiki.tsw.vestas.net/pages/viewpage.action?pageId=296084014)
-
-
-
+Pull Request: [Pull request 12406: [C-557] add_webapi - Repos (azure.com)](https://dev.azure.com/VestasScada/Scada/_git/icedetectionservice/pullrequest/12406?_a=files)
 

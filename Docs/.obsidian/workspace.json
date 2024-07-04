@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ID/03- Intro - VAS ( VASrt - VASss ).md",
+                "file": "IC/03- Intro - High-level architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ID/03- Intro - VAS ( VASrt - VASss ).md",
+                "file": "IC/03- Intro - High-level architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ID/03- Intro - VAS ( VASrt - VASss ).md",
+                "file": "IC/03- Intro - High-level architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ID/03- Intro - VAS ( VASrt - VASss ).md"
+                "file": "IC/03- Intro - High-level architecture.md"
               }
             }
           }
@@ -174,23 +174,23 @@
   },
   "active": "900a495eb84f850a",
   "lastOpenFiles": [
+    "IC/01- Intro - purpose.md",
+    "IC/02- Intro - What is IC.md",
     "ID/02- Intro - PCID.md",
-    "ID/01- Intro.md",
     "ID/03- Intro - VAS ( VASrt - VASss ).md",
-    "Resources/Pasted image 20240624120315.png",
-    "IC/11- TR - IMA - (4) Vestas Anti-Icing System.md",
+    "ID/01- Intro.md",
+    "IC/05- TR - IDM - (1) Vestas Ice Detection.md",
     "IC/04- TR - PowerCurveIceDetection.md",
     "IC/03- Intro - High-level architecture.md",
+    "Resources/Pasted image 20240624120315.png",
+    "IC/11- TR - IMA - (4) Vestas Anti-Icing System.md",
     "ID",
     "IC/10- TR - IMA - (3) Vestas De-Icing System.md",
     "IC/09- TR - IMA - (2) Yawing.md",
     "IC/08- TR - IMA - (1) Pausing.md",
     "IC/07- TR - IDM - (3) 3rd Party Ice Detection.md",
     "IC/06- TR - IDM - (2) Nacelle Ice Detection.md",
-    "IC/05- TR - IDM - (1) Vestas Ice Detection.md",
     "Doc.md",
-    "IC/02- Intro - What is IC.md",
-    "IC/01- Intro - purpose.md",
     "IC/13- IC - 1 1 1.md",
     "IC/12- TR - IMS.md",
     "Resources/Pasted image 20240618150803.png",

@@ -11,14 +11,9 @@ Repo to update: [https://dev.azure.com/VestasScada/Scada/_git/icedetectionservi
 This will allow automatic starting/stopping service during E2E tests
 
 ----
-
 Similar Pull Request in ADLS: [Pull request 5447: ENVCTRL-4643-Updated to .NET 6 - Repos (azure.com)](https://dev.azure.com/VestasScada/Scada/_git/vestas.scada.environmentalcontrol.adls/pullrequest/5447?_a=files)
 
 Pull Request: [Pull request 12353: feature/migrate_icedetectionservice_to_net_6 - Repos (azure.com)](https://dev.azure.com/VestasScada/Scada/_git/icedetectionservice/pullrequest/12353?_a=files)
-
-
-
-
 
 
 

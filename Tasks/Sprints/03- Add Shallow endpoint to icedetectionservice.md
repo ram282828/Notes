@@ -14,6 +14,8 @@ Example:
 
 ---
 
+Pull Request: [Pull request 12429: feature/IC-558_add_shallow_endpoint - Repos (azure.com)](https://dev.azure.com/VestasScada/Scada/_git/icedetectionservice/pullrequest/12429)
+
 
 
 
