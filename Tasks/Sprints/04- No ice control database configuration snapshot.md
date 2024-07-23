@@ -6,13 +6,21 @@
 When any of marked fields changes in UI, we should create new rows in db instead of updating current rows.
 
 Tables:
-```
+```sql
 select * from TDeIcingConfiguration
 select * from TParkUnit_TDeIcingConfiguration
 select * from TDeIcingTrigger
 select * from TDeIcingTriggerConfiguration
 ```
 
+```sql
+delete from TParkUnit_TDeIcingConfiguration where DeIcingConfigurationId > 1
+delete from TDeIcingConfiguration where DeIcingConfigurationId > 1
+delete from TDeIcingTriggerConfiguration where DeIcingTriggerId > 1
+delete from TDeIcingTrigger where DeIcingTriggerId > 1
+UPDATE TDeIcingConfiguration SET  ConfigurationEnabled = 1
+UPDATE TDeIcingTrigger SET  DeIcingTriggerEnabled = 1
+```
 
 TDeIcingConfiguration -> new row should have flad ConfigurationEnabled = 1 and update other and set to ConfigurationEnabled = 0
 
