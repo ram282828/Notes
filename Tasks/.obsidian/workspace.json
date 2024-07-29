@@ -22,54 +22,6 @@
             }
           },
           {
-            "id": "a83c18a2665a4393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sprints/04- Add ForceEngineCycle endpoint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b77e106b117d749",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/01/04- SQL - Write Logger.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "447911b9f375724e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/01/05- SQL - Get Table Info.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b290d7ec9e6420bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sprints/04- No ice control database configuration snapshot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "39e0021d28c2beb4",
             "type": "leaf",
             "state": {
@@ -82,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,18 +164,18 @@
   },
   "active": "39e0021d28c2beb4",
   "lastOpenFiles": [
-    "Notes/01/05- SQL - Get Table Info.md",
     "Notes/01/06- SQL Connection.md",
+    "Notes/01/01- Password.md",
+    "Notes/01/02- Server Connection.md",
+    "Notes/01/05- SQL - Get Table Info.md",
+    "Notes/01/04- SQL - Write Logger.md",
+    "Sprints/04- Add ForceEngineCycle endpoint.md",
     "Sprints/04- No ice control database configuration snapshot.md",
     "Sprints/03- Add Shallow endpoint to icedetectionservice.md",
     "Sprints/02- Add webapi in Icedetectionservice.md",
-    "Sprints/04- Add ForceEngineCycle endpoint.md",
     "Sprints/01- Migrate icedetectionservice to NET 6.md",
     "Sprints/Branch Title.md",
-    "Notes/01/04- SQL - Write Logger.md",
     "Notes/01/03- How Install Service (dll).md",
-    "Notes/01/02- Server Connection.md",
-    "Notes/01/01- Password.md",
     "Notes/02/02- What is NSSM.md",
     "PowerShell/02- Cert.md",
     "PowerShell/03-  Create-Delete Cert.md",

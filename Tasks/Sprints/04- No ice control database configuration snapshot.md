@@ -7,10 +7,10 @@ When any of marked fields changes in UI, we should create new rows in db instead
 
 Tables:
 ```sql
-select * from TDeIcingConfiguration
-select * from TParkUnit_TDeIcingConfiguration
 select * from TDeIcingTrigger
 select * from TDeIcingTriggerConfiguration
+select * from TParkUnit_TDeIcingConfiguration
+select * from TDeIcingConfiguration
 ```
 
 ```sql
